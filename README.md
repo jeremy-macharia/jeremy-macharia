@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" alt="Jeremy Macharia – Software Developer & Financial Engineer" width="100%" />
+  <img src="./jeremy_git_banner.png" alt="Jeremy Macharia – Software Developer & Financial Engineer" width="70%" />
 </p>
 
 <h1 align="center">👋 Hi, I’m Jeremy Macharia</h1>
